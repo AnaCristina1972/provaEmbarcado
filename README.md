@@ -36,6 +36,7 @@ end Prova;
 ## Questão 2
 ##### resposta Codigo Rust:
 ~~~rust
+<<<<<<< HEAD
 fn main(){
 
    
@@ -60,6 +61,32 @@ fn main(){
      b=0;
     x = a & b;
     println!("{:0b} and {:0b} = {:0b}", a, b,!x);
+=======
+ffn  main () {
+
+   
+    deixe  mut x: i32  = 0 ;
+    deixe  mut a: i32  = 1 ;
+    deixe  mut b: i32  = 1 ;
+    
+    x = a & b;
+    println! ( "{: 0b} e {: 0b} = {: 0b}" , a, b ,! X);
+    
+    a =  1 ;
+    b =  0 ;
+    x = a & b;
+    println! ( "{: 0b} e {: 0b} = {: 0b}" , a, b ,! X);
+    
+    a = 0 ;
+    b = 1 ;
+    x = a & b;
+    println! ( "{: 0b} e {: 0b} = {: 0b}" , a, b ,! X);
+    
+     a = 0 ;
+     b = 0 ;
+    x = a & b;
+    println! ( "{: 0b} e {: 0b} = {: 0b}" , a, b ,! X);
+>>>>>>> fe41aaa4537fb50981ec6aedd3bcc4a11e51832e
 
 
 }
