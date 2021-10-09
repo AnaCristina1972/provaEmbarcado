@@ -13,7 +13,7 @@ Prova do dia 08 de out 2021
 
 ## Questão 3
 ##### resposta:
-![ Prova Completa](https://docs.google.com/forms/d/e/1FAIpQLSeJK1tbLZ7PM8Vygy8gRAl1evygYo8ZxHEBtxXub-5-ICCphQ/viewform?pli=1)
+![ imagem da questão 3](https://github.com/AnaCristina1972/provaEmbarcado/blob/main/imagemQuestao3.png)
 ## Questão 4
 ![imagem da questão 4](https://github.com/AnaCristina1972/provaEmbarcado/blob/main/imagem4.png)
 ##### resposta:
