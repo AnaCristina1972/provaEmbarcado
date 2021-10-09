@@ -94,7 +94,7 @@ ffn  main () {
 
 ## Questão 3
 ##### resposta:
-![ imagem da questão 3](https://github.com/AnaCristina1972/provaEmbarcado/blob/main/imagemQuestao3.png)
+![ imagem da questão 3](https://github.com/AnaCristina1972/provaEmbarcado/blob/main/imagequest3.jpg)
 ## Questão 4
 ![imagem da questão 4](https://github.com/AnaCristina1972/provaEmbarcado/blob/main/imagem4.png)
 ##### resposta:
