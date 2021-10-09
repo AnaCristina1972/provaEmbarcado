@@ -36,16 +36,30 @@ end Prova;
 ## Questão 2
 ##### resposta Codigo Rust:
 ~~~rust
-fn  main () {
+ffn  main () {
 
    
-    deixe x;
-
-    deixe a = 1 ;
-    deixe b = 1 ;
+    deixe  mut x: i32  = 0 ;
+    deixe  mut a: i32  = 1 ;
+    deixe  mut b: i32  = 1 ;
     
     x = a & b;
-    println! ( "{: 0b} e {: 0b} = {: 0b}" , a, b ,! X)
+    println! ( "{: 0b} e {: 0b} = {: 0b}" , a, b ,! X);
+    
+    a =  1 ;
+    b =  0 ;
+    x = a & b;
+    println! ( "{: 0b} e {: 0b} = {: 0b}" , a, b ,! X);
+    
+    a = 0 ;
+    b = 1 ;
+    x = a & b;
+    println! ( "{: 0b} e {: 0b} = {: 0b}" , a, b ,! X);
+    
+     a = 0 ;
+     b = 0 ;
+    x = a & b;
+    println! ( "{: 0b} e {: 0b} = {: 0b}" , a, b ,! X);
 
 
 }
