@@ -1,0 +1,7 @@
+Na figura acima mostra uma implementação hardware/software, 
+onde é implementado um algoritmo e executado em um
+microprocessador através da camada de software. 
+Esta camada gerencia  todas as operações necessárias
+para execução do programa. Caso nescessite de alguma operação na camada hardware
+o software direcionada para a camada hardwere que pode realizar tal operação, para que
+a execução tenha maior desempenho. A camada software fica fazendo esse gerenciamento entre hardware e software.
